@@ -7,7 +7,7 @@ image: reg.navercorp.com/c3/wangyuhan/my-function:latest
 imageDigest: sha256:2d28f46b7d246d1047fa31f54de43b1be421c5a8637ed2aee4285c8964272205
 build: git
 git:
-  url:
+  url: https://github.com/hanwgyu/knative-function-test.git
 builder: ""
 builders: {}
 buildpacks: []
